@@ -23,3 +23,6 @@ Examples:
  |email                    |passward   |
  |admin@yourstore.com      |admin      |
  |admin@yourstore.com      |admin123   |
+|admin@yourstore.com      |admin123   |
+|admin@yourstore.com      |admin123   |
+|admin@yourstore.com      |admin123   |
